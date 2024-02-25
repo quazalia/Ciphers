@@ -1,0 +1,47 @@
+Ex.1
+Enter the message: Hello, World!
+Select encryption&decryption method:
+1. Caesar Cipher
+2. Vigenere Cipher
+1
+Enter the shift value for Caesar cipher: 3
+Enter 'E' for encryption or 'D' for decryption: E
+Encrypted message: Khoor, Zruog!
+
+Enter the message: Khoor, Zruog!
+Select encryption&decryption method:
+1. Caesar Cipher
+2. Vigenere Cipher
+1
+Enter the shift value for Caesar cipher: 3
+Enter 'E' for encryption or 'D' for decryption: D
+Decrypted message: Hello, World!
+
+Ex.2
+Enter the message: Hello, World!
+Select encryption&decryption method:
+1. Caesar Cipher
+2. Vigenere Cipher
+2
+Enter the key for Vigenere Cipher: KEY
+Enter 'E' for encryption or 'D' for decryption: E
+Encrypted message: RIdVS, UYVdN!
+
+Ex.3
+Enter the message: Hello
+Select encryption&decryption method:
+1. Caesar Cipher
+2. Vigenere Cipher
+2
+Enter the key for Vigenere Cipher: KEY
+Enter 'E' for encryption or 'D' for decryption: e
+Encrypted message: RIdVS
+
+Enter the message: RIdVS
+Select encryption&decryption method:
+1. Caesar Cipher
+2. Vigenere Cipher
+2
+Enter the key for Vigenere Cipher: KEY
+Enter 'E' for encryption or 'D' for decryption: D
+Decrypted message: HElLO
